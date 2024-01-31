@@ -2,7 +2,7 @@
 This repository contains code and datasets for the paper titled "Cascading Failure Prediction in Power Grid Using Node and Edge Attributed Graph Neural Networks".
 
 ## Data
-The repo includes the pre-processed datasets in pytorch-geometric `Data` format only for the 39-bus test system. Since the files are too large, the pre-processed 118-bus scenarios and the raw scenario data for 39-bus and 118-bus in MATLAB object formats can be obtained from http://tinyurl.com/casacdedata.
+The repo includes the pre-processed datasets in pytorch-geometric `Data` format only for the 39-bus test system. Since the files are too large, the pre-processed 118-bus scenarios and the raw scenario data for 39-bus and 118-bus in MATLAB object formats can be obtained from https://drive.google.com/file/d/1B3DoAPBqHVq6tr4_KhnFF-OsLFHnCLaI/view?usp=drive_link.
 
 ## Run
 The main code to train/test is in `main.py`.
